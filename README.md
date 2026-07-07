@@ -22,6 +22,9 @@ exactly when it matters most — the moment the agent is about to repeat the
 mistake the correction exists to prevent. A correction is worthless if it only
 loads on quiet turns.
 
+Longer write-up of the failure mode:
+[Your agent's memory has a starvation problem](docs/starvation.md).
+
 ## The pattern
 
 Two ideas:
