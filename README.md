@@ -1,5 +1,7 @@
 # poolsplit
 
+[![test](https://github.com/SpicyNoodles3/poolsplit/actions/workflows/test.yml/badge.svg)](https://github.com/SpicyNoodles3/poolsplit/actions/workflows/test.yml)
+
 Pool-split retrieval for agent memory. When one scoring function ranks a
 mixed-type memory store against a single token budget, high-priority entry types
 monopolize the context window and low-priority types never surface. poolsplit
